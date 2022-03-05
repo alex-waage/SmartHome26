@@ -1,5 +1,4 @@
-# SmartHome26
----
+# SmartHome2
 <!-- Small talk -->
 Since I have started with Arduino, I wanted to make solution's, which will be smart and effective. Last time I was thinking, how to make my house locally smarter through all the devices that I have had or I have made.
 
@@ -14,7 +13,7 @@ I made a "[Home Assistant](https://www.home-assistant.io/)" server based on RPI 
 ![Server photo](/Server/server-photo.jpg)
 
 <!-- ToDo -->
-###ToDo
+### ToDo
 * [x] [Meteostanice](/Meteostanice/)
 * [x] Led stick
 * [ ] [Smart switches](https://sonoff.tech/)
