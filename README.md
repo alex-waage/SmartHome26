@@ -1,4 +1,4 @@
-# SmartHome2
+# SmartHome26
 <!-- Small talk -->
 Since I have started with Arduino, I wanted to make solution's, which will be smart and effective. Last time I was thinking, how to make my house locally smarter through all the devices that I have had or I have made.
 
