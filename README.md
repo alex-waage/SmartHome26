@@ -1,25 +1,11 @@
-# SmartHome26
-<!-- Small talk -->
-Since I have started with Arduino, I wanted to make solution's, which will be smart and effective. Last time I was thinking, how to make my house locally smarter through all the devices that I have had or I have made.
+# How to flash Sonoff to Tasmota firmware
+After some experiences with commercial's firmware, for example "ewelink", I decided, that I don't want this type of devices at home. So here is Tasmota! Tasmota is basically open-source firmware for IoT gadgets based on ESP chips.
 
-<!-- About project, tech specs -->
-So there were so many options to choose from. And actually I was thinking about three of all:
-* Some commercial solution like Loxone or Tecomat
-* Little bit harder, but make my own server with UI & UX
-* Home Assistant based on Linux and this was right choose
+### What do you need to flash?
+ * FTDI FT232rl - converter (price about 3$),
+ * SW for flash - I am using "[Tasmotizer](https://github.com/tasmota/tasmotizer)", cause you can compile and run it on linux,
+ * new firmware - just download firmware (cz version) from [here](https://github.com/arendst/Tasmota/releases/download/v11.0.0/tasmota-CZ.bin).
 
-I made a "[Home Assistant](https://www.home-assistant.io/)" server based on RPI 4 (2GB ram). Print some case, and here is it :D. I mean, the best thing on Home Assistant is, that you can implement your project's same way as commerical. Also is really simple to set up and to use.
-
-![Server photo](/Server/server-photo.jpg)
-
-<!-- ToDo -->
-### ToDo
-* [x] [Meteostanice](/Meteostanice/)
-* [x] [Led stick](/LedStick/)
-* [ ] [Smart switches](https://sonoff.tech/)
-* [ ] [Chytrá schránka](/Chytrá_schránka/)
-* [ ] And lot of more...
-
-<!-- Info -->
----
-For more information or help, contact me on [alexandr@waage.cz](mailto:alexandr@waage.cz).
+ ### Ok, actually I have all of these stuff, what now?
+ If I forget that you can flash the firmware from some company, then you can also flash your firmware by yourself.
+But I want to be honest before I find the right grip, so I destroyed one sonoff and went through a lot of materials. However, I found one for the switches that I would like to share with you. [Here](https://www.youtube.com/watch?v=teEEMM_cCxQ).
