@@ -16,8 +16,8 @@ I made a "[Home Assistant](https://www.home-assistant.io/)" server based on RPI 
 ### ToDo
 * [x] [Meteostanice](/Meteostanice/)
 * [x] [Led stick](/LedStick/)
-* [ ] [Smart switches](https://sonoff.tech/)
-* [ ] [Chytrá schránka](/Chytrá_schránka/)
+* [x] [Smart switches](https://sonoff.tech/)
+* [x] [Chytrá schránka](/Chytrá_schránka/)
 * [ ] And lot of more...
 
 <!-- Info -->
