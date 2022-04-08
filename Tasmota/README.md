@@ -8,4 +8,8 @@ After some experiences with commercial's firmware, for example "ewelink", I deci
 
  ### Ok, actually I have all of these stuff, what now?
  If I forget that you can flash the firmware from some company, then you can also flash your firmware by yourself.
+<<<<<<< HEAD
 But I want to be honest before I find the right grip, so I destroyed one sonoff and went through a lot of materials. However, I found one for the switches that I would like to share with you. [Here](https://www.youtube.com/watch?v=teEEMM_cCxQ).
+=======
+But I want to be honest before I find the right grip, so I destroyed one sonoff and went through a lot of materials. However, I found one for the switches that I would like to share with you. [Here](https://www.youtube.com/watch?v=teEEMM_cCxQ).
+>>>>>>> 53e9c2dc5a937721b928b4a1351fee0fe64f0647
